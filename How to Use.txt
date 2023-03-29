@@ -1,0 +1,7 @@
+
+To use this application you have to extract the *.unitypackage somewhere on your hard drive (using WinRAR for ex.)
+Then you have to pass the root address for the extracted directory and set up the settings.
+In some cases when you try to overwrite the files an error Pops Up.
+In this case, try checking 'OverWrite Files'.
+
+Thats it.
